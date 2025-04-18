@@ -16,3 +16,10 @@ This project demonstrates how to:
 - Use train-test split and measure performance with metrics like accuracy, precision, recall, and F1-score.
 
 ---
+
+## NOTE FOR THE READERS
+
+- main.py is the main code
+- mainvs.py contains and utilises the data visualisation tools for main.py
+
+---
